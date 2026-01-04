@@ -1,4 +1,5 @@
-import data from './teste.json';
+import data from './test.json';
 
 
 console.log(data);
+
