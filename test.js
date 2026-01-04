@@ -1,6 +1,7 @@
-import data from './test.json' assert { type: 'json' };
+import data from './test.json' with { type: 'json' };
 
 
 console.log(data);
+
 
 
